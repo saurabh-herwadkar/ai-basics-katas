@@ -11,6 +11,9 @@ xlwt="*"
 openpyxl="*"  
 xlsxwriter="*"  
 xlrd="*" 
+featuretools = "*"
+matplotlib="*"
+seaborn="*"
 
 [dev-packages]
 
@@ -20,6 +23,9 @@ xlwt="*"
 openpyxl="*"  
 xlsxwriter="*"  
 xlrd="*" 
+featuretools = "*"
+matplotlib="*"
+seaborn="*"
 
 [requires]
 python_version = "3.9"
